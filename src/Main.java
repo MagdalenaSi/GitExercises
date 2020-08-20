@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello World master!test");
         System.out.println("Branch 1 commit 1");
         System.out.println("next message branch 1");
+        System.out.println("next message branch 2");
     }
 }
