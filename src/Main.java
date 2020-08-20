@@ -1,9 +1,8 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello World master!test2");
-        System.out.println("Branch 2 commit 1");
-        System.out.println("Branch 2 commit 2");
-        System.out.println("Branch 2 commit 3");
+        System.out.println("Hello World master!test");
+        System.out.println("Branch 1 commit 1");
+        System.out.println("next message branch 1");
     }
 }
